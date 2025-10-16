@@ -1,14 +1,4 @@
-{
-  "name": "Electron-Sari-Sari-Store",
-  "version": "1.0.0",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron ."
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "Electron Sari Sari Store App",
+  {
   "devDependencies": {
     "electron": "^38.3.0"
   }
