@@ -1,0 +1,13 @@
+{
+  "name": "electron-sari-sari-store",
+  "version": "1.0.0",
+  "description": "Sari-Sari Store Inventory Application using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^38.3.0"
+  }
+}
